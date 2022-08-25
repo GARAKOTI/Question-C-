@@ -1,3 +1,4 @@
+// C++ program for concatinating string
 #include<iostream>
 #include<string.h>
 using namespace std;

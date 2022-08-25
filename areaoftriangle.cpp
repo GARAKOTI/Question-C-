@@ -1,3 +1,4 @@
+// Write a  C++ program to find the Area ot triangle
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;

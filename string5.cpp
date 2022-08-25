@@ -1,3 +1,5 @@
+// Write C++ program to change string to upper case without strupr
+
 #include<iostream>
 #include<string.h>
 using namespace std;
